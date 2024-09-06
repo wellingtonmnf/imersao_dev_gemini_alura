@@ -20,7 +20,7 @@ Imagine um catálogo de atletas brasileiros, todos organizados e prontos para se
 
 **Na web, para testar**
 
-1. **Acesse o link:** Entre neste link para abrir a aplicação web e testar a busca na base de dados.
+1. **Acesse o link:** [Clique aqui](https://imersao-dev-gemini-alura.vercel.app/) para abrir a aplicação web e testar a busca na base de dados.
 
 **Em sua máquina, para editar**
 
@@ -48,19 +48,17 @@ Se você é um desenvolvedor e quer ajudar a melhorar essa aplicação, fique à
 
 **Wellington Morais**
 
-**[[Perfil no GitHub](https://github.com/wellingtonmnf)]**
+**[Perfil no GitHub(https://github.com/wellingtonmnf)]**
 
-**[Link para a aplicação no Vercel]**
+**[Link para a aplicação no Vercel](https://imersao-dev-gemini-alura.vercel.app/)**
 
 **[06/09/2024]**
 
 ---
 
-# Projeto base da Imersão Dev_ com Gemini da Alura
+### Projeto base da Imersão Dev_ com Gemini da Alura
 
-Este projeto foi criado durante a Imersão Dev_ com Gemini realizada pela Alura, em setembro de 2024
-
-* Aulas (02 a 06/09/2024): 
+Este projeto foi criado durante a Imersão Dev_ com Gemini realizada pela Alura, entre os dias 02 e 06 setembro de 2024
 
   1. [x] Aula 01: Iniciando o Projeto com HTML e CSS
   2. [x] Aula 02: Estilizando o projeto com CSS
