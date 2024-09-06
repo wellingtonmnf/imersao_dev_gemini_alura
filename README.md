@@ -44,15 +44,16 @@ Se você é um desenvolvedor e quer ajudar a melhorar essa aplicação, fique à
 
 **1, 2, 3... YES!**
 
+<iframe src="https://giphy.com/embed/gfZUYT3ReSiaF28bnn" width="480" height="382" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/Hypd-win-winning-awesome-baby-gfZUYT3ReSiaF28bnn">via GIPHY</a></p>
+
 **#atletasbrasileiros #programação #webdev #open-source**
 
 **Wellington Morais**
 
-**[Perfil no GitHub(https://github.com/wellingtonmnf)]**
+**[Perfil no GitHub](https://github.com/wellingtonmnf)**
 
-**[Link para a aplicação no Vercel](https://imersao-dev-gemini-alura.vercel.app/)**
-
-**[06/09/2024]**
+**Deploy: 06/09/2024**
+**Última atualização: 06/09/2024**
 
 ---
 
