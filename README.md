@@ -8,5 +8,5 @@ em setembro de 2024
 [x] Aula 01: Iniciando o Projeto com HTML e CSS
 [x] Aula 02: Estilizando o projeto com CSS
 [x] Aula 03: Criando a base de dados com JavaScript
-[ ] Aula 04: Implementando a funcionalidade de busca
+[x] Aula 04: Implementando a funcionalidade de busca
 [ ] Aula 05:Finalizando o projeto com GitHub e Deploy
