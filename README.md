@@ -1,5 +1,7 @@
 ## **Desvendando atletas - Imersão Dev_ com Google Gemini | Alura** 
 
+<img src="imagens/capa.png" alt="Capa" align="center">
+
 **O que faz essa aplicação?**
 
 Imagine um catálogo de atletas brasileiros, todos organizados e prontos para serem encontrados. Essa aplicação te ajuda a achar o atleta que você procura de forma rápida e fácil! 
@@ -44,7 +46,7 @@ Se você é um desenvolvedor e quer ajudar a melhorar essa aplicação, fique à
 
 **1, 2, 3... YES!**
 
-<iframe src="https://giphy.com/embed/gfZUYT3ReSiaF28bnn" width="480" height="382" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/Hypd-win-winning-awesome-baby-gfZUYT3ReSiaF28bnn">via GIPHY</a></p>
+![YES gif README.md](imagens/giphy.webp)
 
 **#atletasbrasileiros #programação #webdev #open-source**
 
@@ -52,8 +54,8 @@ Se você é um desenvolvedor e quer ajudar a melhorar essa aplicação, fique à
 
 **[Perfil no GitHub](https://github.com/wellingtonmnf)**
 
-**Deploy: 06/09/2024**
-**Última atualização: 06/09/2024**
+* **Deploy: 06/09/2024**
+* **Última atualização: 06/09/2024**
 
 ---
 
