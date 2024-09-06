@@ -50,9 +50,7 @@ Se você é um desenvolvedor e quer ajudar a melhorar essa aplicação, fique à
 
 **#atletasbrasileiros #programação #webdev #open-source**
 
-**Wellington Morais**
-
-**[Perfil no GitHub](https://github.com/wellingtonmnf)**
+**Wellington Morais | [Perfil no GitHub](https://github.com/wellingtonmnf)**
 
 * **Deploy: 06/09/2024**
 * **Última atualização: 06/09/2024**
